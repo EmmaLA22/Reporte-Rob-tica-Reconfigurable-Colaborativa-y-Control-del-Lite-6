@@ -4,7 +4,7 @@ Sistema de control para el brazo robótico **xArm Lite 6** capaz de ejecutar dib
 
 ---
 
-## 📽️ Demo - video demostrativo de como hace ek procedimiento.
+## 📽️ Demo - video demostrativo de como hace el procedimiento.
 
 > *(https://youtu.be/YhT98m4ahmw)*
 
